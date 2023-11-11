@@ -38,3 +38,5 @@ Using the cached data, run the query that filters out the view ratings with an a
 
 
 Resources
+- https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/functions.html
+- https://www.w3resource.com/sql/aggregate-functions/avg-with-round.php
